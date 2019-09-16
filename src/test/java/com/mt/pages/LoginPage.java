@@ -38,6 +38,7 @@ public class LoginPage
 		{
 			objpassword.sendKeys(password);
 			System.out.println("Password is entered successfully");
+			System.out.println("PAASWORD IS CORRECT");
 		}
 		
 		public void clickonLogin()
