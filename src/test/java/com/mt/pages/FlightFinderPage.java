@@ -26,6 +26,7 @@ public class FlightFinderPage
 	{
 		boolean flag=objflightfinder.isDisplayed();
 		System.out.println("Flight Finder image is displayed");
+		System.out.println("Load finder image displayed");
 	}
 	public void clickonsignoff()
 	{
